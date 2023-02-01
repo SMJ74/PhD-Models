@@ -3,4 +3,4 @@ A range of models to test that OPM moth can be identified using a built neural n
 ## The Colab Model
 This is the Keras model, the first model for OPM
 ## The next model
-This will be a different kind such as from Pytorch but likely to be built from scratch
+This will be a different kind
